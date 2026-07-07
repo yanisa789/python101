@@ -1,1 +1,10 @@
-print("hello")
+print("i'm hungry")
+print('he ask me "Who got the book?"')
+
+print("I'm good and \"I will do my best\"")
+print('/\\')
+print('\ta\na\ta\ta\n\ta')
+print('100.00')
+print('%d' %100)
+print('%d' %100.58)
+print('%f' %-100.58)
