@@ -1,0 +1,10 @@
+#exemple 1
+height = float(input("enter your height in meters:"))
+Weight = float(input("enter your weight in kilograms:"))
+bmi = Weight / (height ** 2)
+print("Your BMI is: ", format(bmi, ".2f"))
+
+#exemple 2
+celsius = input("enter temperature in celsius: ")
+fahrenheit =  (float(celsius) * 9/5) + 32
+print("temperature in fahrenheit: ", format(fahrenheit, '.2f'))
