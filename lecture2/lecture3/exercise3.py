@@ -1,5 +1,5 @@
-hours = float(input("Enter the number of hours worked: "))
-pay_rate = float(input("Enter the hours pay rate: "))
+hours = int(input("Enter the number of hours worked: "))
+pay_rate = float(input("Enter the hourly pay rate: "))
 if hours <= 40:
     gross_pay = hours * pay_rate
 else:
