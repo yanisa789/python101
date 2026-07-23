@@ -1,0 +1,7 @@
+print("----------------")
+print('KPN\tMPH')
+print('----------------')
+
+for number in range(60,131,10):
+    MPN = KPH*0.6214
+    print(KPH, '\t', MPN)
