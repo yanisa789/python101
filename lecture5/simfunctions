@@ -1,0 +1,7 @@
+def message():
+    print("I am Arthur.")
+    print("King of the Britons.")
+#calling the functions
+print('I have a message for you.')
+message()
+print('Goodbye!')

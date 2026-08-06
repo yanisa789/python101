@@ -1,0 +1,13 @@
+from multiprocessing import Value
+
+
+def functions_name(parameters):
+    # code block
+    return Value
+
+def greet():
+    print("Hello,world!")
+#calling the functions
+greet()
+
+    # code block
